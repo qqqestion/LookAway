@@ -30,6 +30,8 @@
 	<string>Copyright © 2020 Samarjeet Singh</string>
 	<key>NSMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSFocusStatusUsageDescription</key>
+	<string>LookAway uses Focus mode to pause break reminders when you're in Do Not Disturb.</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 </dict>
